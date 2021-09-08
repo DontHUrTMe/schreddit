@@ -14,6 +14,8 @@ repositories {
 }
 
 dependencies {
+    // https://mvnrepository.com/artifact/com.mashape.unirest/unirest-java
+    implementation 'com.mashape.unirest:unirest-java:1.4.9'
     implementation 'org.springframework.boot:spring-boot-starter-web'
     developmentOnly 'org.springframework.boot:spring-boot-devtools'
     testImplementation 'org.springframework.boot:spring-boot-starter-test'

@@ -1,4 +1,4 @@
-package com.gyuri.reddit.reddit;
+package com.gyuri.reddit.reddit.config;
 
 
 import hu.gerviba.authsch2springbootstarter.AuthschConfig;

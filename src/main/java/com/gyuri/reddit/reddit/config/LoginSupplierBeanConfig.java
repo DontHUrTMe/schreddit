@@ -1,5 +1,7 @@
-package com.gyuri.reddit.reddit;
+package com.gyuri.reddit.reddit.config;
 
+import com.gyuri.reddit.reddit.model.UserEntity;
+import com.gyuri.reddit.reddit.model.UserService;
 import hu.gerviba.authsch2springbootstarter.struct.AuthschLoginLogicSupplier;
 import hu.gerviba.authsch2springbootstarter.struct.Scope;
 import org.springframework.beans.factory.annotation.Autowired;

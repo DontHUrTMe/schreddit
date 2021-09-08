@@ -1,4 +1,4 @@
-package com.gyuri.reddit.reddit;
+package com.gyuri.reddit.reddit.model;
 
 import hu.gerviba.authsch2springbootstarter.struct.AuthschUser;
 import hu.gerviba.authsch2springbootstarter.struct.ProfileDataResponse;
